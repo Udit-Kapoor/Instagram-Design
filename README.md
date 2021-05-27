@@ -1,6 +1,5 @@
-# meethive
-
-A new Flutter application.
+Amazing Instagram Like UI completely build in Flutter 
+Works in iOS and Android 
 
 ## Getting Started
 
