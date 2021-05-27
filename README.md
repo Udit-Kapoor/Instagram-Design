@@ -1,6 +1,9 @@
 Amazing Instagram Like UI completely build in Flutter 
 Works in iOS and Android 
 
+![Screenshot](ss1.png)
+
+![Screenshot](ss2.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
